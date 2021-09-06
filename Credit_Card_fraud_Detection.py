@@ -22,9 +22,9 @@ credit_card_data['Class'].value_counts()
 
 #This Dataset is highly unbalanced
 
-0--> Normal transaction
+#0--> Normal transaction
 
-1--> fraudulent
+#1--> fraudulent
 
 # Seperating the data for analysis
 legit = credit_card_data[credit_card_data.Class == 0]
@@ -43,7 +43,7 @@ credit_card_data.groupby('Class').mean()
 
 #Build a smple dataset containing similar distribution of Normal Transactions and Fraudulent Transactions
 
-Number of Fraudulent Transactions --> 146
+#Number of Fraudulent Transactions --> 146
 
 legit_sample = legit.sample(n=146)
 
