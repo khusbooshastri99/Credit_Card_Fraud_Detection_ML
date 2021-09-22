@@ -3,7 +3,7 @@
 # What is credit card fraud.
   
   Credit card fraud is a wide-ranging term for theft and fraud committed using or involving a payment card, such as a credit card or debit card as a fraudulent source of funds in a transaction. It is important to detect such fraud via some novel methods.
-  Here we will apply several Machine Learning algorithms to make predictions.
+  Here we will apply several Machine Learning algorithm to make predictions.
 
 # Data Source: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
