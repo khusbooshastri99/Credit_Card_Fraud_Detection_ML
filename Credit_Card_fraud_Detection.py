@@ -41,7 +41,7 @@ credit_card_data.groupby('Class').mean()
 
 #Under Sampling
 
-#Build a smple dataset containing similar distribution of Normal Transactions and Fraudulent Transactions
+#Build a sample dataset containing similar distribution of Normal Transactions and Fraudulent Transactions
 
 #Number of Fraudulent Transactions --> 146
 
